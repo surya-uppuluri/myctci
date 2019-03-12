@@ -1,1 +1,7 @@
 /Gayle Laakmann McDowell-Cracking the Coding Interview,  189 Programming Questions and Solutions-CareerCup (2015).pdf
+.bin
+.idea
+.settings
+.project
+.classpath
+*.iml
